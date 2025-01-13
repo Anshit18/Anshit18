@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anshit18
+<!-- - 👋 Hi, I’m @Anshit18
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+-
 Anshit18/Anshit18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -14,37 +14,72 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Viral (Vee-ral)
-      </h1>
-    </summary>
-  </ul>
-</div>
+# Hi there, I'm Anshit <img src="https://github.com/Anshit18/Anshit18/blob/master/assets/hi.gif" width="22px">
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/viral-sangani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/x.com/viral-sangani" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="280" alt="animated hello">
+<!--<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="200" alt="animated hello">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="200">-->
 
-**<h3 align="left">Rapid Fire</h3>**
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" alt="NUX_Octodex">-->
+<br>
 
-- 💼 I'm currently working on: **💻 Some in Blockchain & Web3**
-- 🌱 I'm currently learning: **📚 Exploring AI**
-- 💬 Ask me about: **💡 Scalability, Web3, Solidity, EVM, Rust, JS/TS, Cloud**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-- 📂 Portfolio: **<a href="https://viralsangani.me" target="_blank">🌎 viralsangani.me</a>**
-- 📝 Blog: **<a href="https://blog.viralsangani.me" target="_blank">🔖 blog.viralsangani.me</a>**
+About Me :
+
+- I'm currently working on Java, SpringBoot, Microservices and SQL
+- Always enthusiastic about technology
+- How to reach me: Anshit18@gmail.com
+
+<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=Anshit18)
+
+---
+
+### Languages and Tools:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### Connect with me here:
+
+<!-- [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/Anshit18)  -->
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/anshit-singh-rajput/) [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='20'>](https://twitter.com/anshit_18)
 
 
- **<h3 align="center">Skills</h3>**
+### GitHub Stats:
+[![Anshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshit18)](https://github.com/Anshit18/github-readme-stats)
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=javascript" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=python" height="28" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=graphql" height="28" alt="Graphql" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tailwind" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nextjs" height="28" alt="Nextjs" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="28" alt="React" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nodejs" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=express" height="28" alt="Express" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=django" height="28" alt="Django" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=postgresql" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=redis" height="28" alt="Redis" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=dynamodb" height="28" alt="DynamoDB" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=elasticsearch" height="28" alt="Elasticsearch" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=flutter" height="28" alt="Flutter" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=docker" height="28" alt="Docker" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=aws" height="28" alt="AWS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=azure" height="28" alt="Azure" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=gcp" height="28" alt="GCP" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=terraform" height="28" alt="Terraform" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=githubactions" height="28" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=kubernetes" height="28" alt="Kubernetes" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vscode" height="28" alt="VSCode" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=firebase" height="28" alt="Firebase" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=supabase" height="28" alt="Supabase" style="margin-right: 4px"></p>
+###  Top Languages Used:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshit18&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshit18&theme=nord_dark)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Anshit18&show_icons=true&count_private=true&theme=dark) -->
+<!--->
 
- **<h3 align="left">GitHub Stats</h3>**
+---
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=viral-sangani&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=viral-sangani&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
-</p>
+### My Github Tropies:
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anshit18)](https://github.com/Anshit18/github-profile-trophy)
+
+
+<!-- ### Can connect with me:
+
+[<img align="left" alt="Anshit18 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/anshit-singh-rajput/ -->
