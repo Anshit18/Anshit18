@@ -56,7 +56,7 @@ I firmly believe that every day brings an opportunity to learn and grow. Whether
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![AWS](https://skillicons.dev/icons?i=aws)
+![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=aws)
 ---
 
 ### Connect with me here:
