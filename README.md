@@ -25,9 +25,13 @@ You can click the Preview link to take a look at your changes.
 
 About Me :
 
-- I'm currently working on Java, SpringBoot, Microservices and SQL
+I'm fluent in multiple programming languages and occasionally stumbling over words when asked to describe myself. Currently pursuing a Master’s in Computer Science at Binghamton University, I’m driven by an insatiable curiosity, an average dependency on caffeine, and a knack for tackling complex problems. My primary interests lie in software development, cloud computing, and machine learning. Most often, you'll find me immersed in code or exploring research papers, always on the hunt for the next project or skill to master.
+
+I firmly believe that every day brings an opportunity to learn and grow. Whether it’s diving into cutting-edge technologies or collaborating on impactful solutions, I thrive on challenges that push the boundaries of my knowledge. If you’re looking for someone who’s passionate about innovation and eager to contribute, feel free to reach out via email at arajput@binghamton.edu!
+
+<!-- I'm currently working on Java, SpringBoot, Microservices and SQL
 - Always enthusiastic about technology
-- How to reach me: Anshit18@gmail.com
+- How to reach me: Anshit18@gmail.com-->
 
 <br />
 
