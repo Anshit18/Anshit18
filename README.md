@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" alt="NUX_Octodex">-->
 <br>
 
-About Me :
+**<h3 align="left"><br>About Me :</h3>**
 
 I'm fluent in multiple programming languages and occasionally stumbling over words when asked to describe myself. Currently pursuing a Master’s in Computer Science at Binghamton University, I’m driven by an insatiable curiosity, an average dependency on caffeine, and a knack for tackling complex problems. My primary interests lie in software development, cloud computing, and machine learning. Most often, you'll find me immersed in code or exploring research papers, always on the hunt for the next project or skill to master.
 
@@ -56,8 +56,7 @@ I firmly believe that every day brings an opportunity to learn and grow. Whether
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+![AWS](https://skillicons.dev/icons?i=aws)
 ---
 
 ### Connect with me here:
@@ -71,7 +70,8 @@ I firmly believe that every day brings an opportunity to learn and grow. Whether
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anshit18&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Anshit18&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+  
+  <!--<img width="48%" src="https://streak-stats.demolab.com/?user=Anshit18&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" /> -->
 </p>
 
 ###  Top Languages Used:
